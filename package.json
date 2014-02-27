@@ -1,12 +1,11 @@
 {
   "name": "tabular",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tabular support for Atom",
   "repository": "https://github.com/yhsiang/tabular",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
